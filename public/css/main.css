@@ -1,0 +1,24 @@
+.form-daftaruser label{
+	padding-top: 8px;
+}
+
+.form-daftaruser .radio-daftaruser{
+	padding-top: 8px;
+}
+
+.form-daftaruser .biaya-kuliah{
+	display: inline;
+	width: 60%;
+}
+
+.container-daftaruser{
+	margin-bottom: 40px;
+}
+
+.row_captcha_daftaruser{
+	margin-bottom: 20px;
+}
+
+	.row_captcha_daftaruser .input_captcha{
+		margin-top: 20px;
+	}
